@@ -1,4 +1,5 @@
+<pre>
 <?php
-shell_exec('$HOSTNAME');
-echo "bye"
+print `ifconfig`;
 ?>
+</pre>
