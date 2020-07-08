@@ -1,5 +1,5 @@
 <pre>
-<?php
-print `ifconfigaa`;
+<? php
+print `ifconfig;
 ?>
 </pre>
